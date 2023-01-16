@@ -1,20 +1,23 @@
 # DAISGram
 
-DAISGram - C++ Project
+C++ Project
 
 Requires Linux OS or Ubuntu VM on Windows
+
 Compiler: g++
 
-## BMP library
+# BMP library
 
-In order to test that the (libbmp) library is running correctly,
+In order to test that the libbmp library is running correctly,
 you need to execute the make testbmp command, then ./test_bmplib
+
 If running correctly, it will generate a checkboard.bmp file.
 
 # Expected results
 
 The 'images' folder contains some images to be used in testing your 
 implementation. 
+
 The 'results' folder contains the expected results.
 
 # Example Commands
